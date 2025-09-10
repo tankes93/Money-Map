@@ -1,6 +1,6 @@
 # Money Map
 
-![logo_trans](https://github.com/user-attachments/assets/a33998ac-f796-4e6c-9f1d-756c4a976355)
+![logo_trans](logo.png)
 
 Money Map is a personal finance management application built using Python and Tkinter. It allows users to track their income and expenses, set budgets, and visualize their financial data through interactive graphs.
 
@@ -55,9 +55,9 @@ Money Map is a personal finance management application built using Python and Tk
 
 ## Screenshots
 
-![money-map-preview](https://github.com/user-attachments/assets/6e21f6ca-7604-4488-9480-e47051df9378)
+![money-map-preview](money-map-preview.png)
 
-![transacton-report](https://github.com/user-attachments/assets/67a2178d-5df6-483c-a7bd-e22c5858ddb2)
+![transacton-report](transacton-report.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
