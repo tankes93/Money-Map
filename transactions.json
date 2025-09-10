@@ -1,0 +1,53 @@
+{
+  "balance": 19000.0,
+  "transactions": [
+    {
+      "date": "10-09-2025",
+      "description": "Marketing Agency",
+      "amount": 20000.0,
+      "category": "Salary"
+    },
+    {
+      "date": "10-09-2025",
+      "description": "TV",
+      "amount": -1000.0,
+      "category": "Entertainment"
+    },
+    {
+      "date": "11-09-2025",
+      "description": "Groceries",
+      "amount": -2500.0,
+      "category": "Food"
+    },
+    {
+      "date": "12-09-2025",
+      "description": "Bus Pass",
+      "amount": -500.0,
+      "category": "Transport"
+    },
+    {
+      "date": "13-09-2025",
+      "description": "Freelance Project",
+      "amount": 5000.0,
+      "category": "Income"
+    },
+    {
+      "date": "14-09-2025",
+      "description": "Electricity Bill",
+      "amount": -1200.0,
+      "category": "Utilities"
+    },
+    {
+      "date": "15-09-2025",
+      "description": "Dinner at Restaurant",
+      "amount": -800.0,
+      "category": "Food"
+    },
+    {
+      "date": "16-09-2025",
+      "description": "Book Purchase",
+      "amount": -400.0,
+      "category": "Education"
+    }
+  ]
+}
